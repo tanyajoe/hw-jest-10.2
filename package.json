@@ -1,0 +1,15 @@
+{
+  "name": "hw-jest-10.2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-plugin-istanbul": "^6.1.1",
+    "jest": "^29.3.1"
+  }
+}
